@@ -19,3 +19,11 @@ With our cyber security tool, you can rest assured that your online presence is 
 If it raises error saying command not found 
 
 ``` python -m streamlit run app.py  ```
+
+Project By:
+Radhika Daga (rdaga@deloitte.com)
+Shrey Dua (shrdua@deloitte.com)
+Sanjay Kotabagi (mkotabagi@deloitte.com)
+
+Instructor:
+Sourabh Gupta
